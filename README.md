@@ -19,4 +19,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
