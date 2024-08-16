@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
