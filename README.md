@@ -3,11 +3,13 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -17,6 +19,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0226-invert-binary-tree) |
 ## Array
@@ -46,4 +49,8 @@
 | ------- |
 | [0180-consecutive-numbers](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0185-department-top-three-salaries) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
