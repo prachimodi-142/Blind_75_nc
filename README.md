@@ -5,6 +5,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
@@ -23,6 +24,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Array
@@ -30,10 +32,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0015-3sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +61,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
