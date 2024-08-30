@@ -57,6 +57,7 @@
 | [0180-consecutive-numbers](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/prachimodi-142/Blind_75_nc/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Search Tree
 |  |
