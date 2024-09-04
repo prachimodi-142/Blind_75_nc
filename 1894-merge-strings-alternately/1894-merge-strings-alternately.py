@@ -6,7 +6,7 @@ class Solution:
          # append rest of the word from the longest word
 
         result = ""
-        total_len = len(word1) + len(word2)
+        # total_len = len(word1) + len(word2)
 
         min_len = min(len(word1), len(word2))
 
