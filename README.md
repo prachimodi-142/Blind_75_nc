@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/prachimodi-142/Blind_75_nc/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
