@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0238-product-of-array-except-self](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prachimodi-142/Blind_75_nc/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/prachimodi-142/Blind_75_nc/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
